@@ -9,6 +9,8 @@
   "author": "ktg",
   "license": "ISC",
   "dependencies": {
-    "cities": "^2.0.0"
+    "cities": "^2.0.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
   }
 }
